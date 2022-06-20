@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently working on an Off-Leave Full-stack project
-- 🌱 I’m currently interning :)
-- 💬 Ask me about any questions pertaining to DSAI and I would be glad to help out!
+- 🌱 Currently interning and learning about Data Science in Security:)
+- 💬 Ask me about any questions pertaining to Data Science/Maths and I would be glad to help out!
 - 📫 Feel free to reach out to me through LinkedIn!
 
 ---
