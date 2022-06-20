@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋 I'm Yi Hao </h1>
 
-<!--
-**STrikeNone/STrikeNone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Follow-me-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/puah_yihao/)
+[![Linkedin](https://img.shields.io/badge/Connect%20with%20me-CV-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/bhargav-singapuri](https://www.linkedin.com/in/yi-hao-puah-7286b11b8/))
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an Off-Leave Full-stack project
+- 🌱 I’m currently interning :)
+- 💬 Ask me about any questions pertaining to DSAI and I would be glad to help out!
+- 📫 Feel free to reach out to me through LinkedIn!
+
+---
+
+### Coding Sites
+
+<p align="left">
+<a href="https://leetcode.com/STrikeNone/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="STrikeNone" height="40" width="40" /></a>
+</p>
+
+
+<details>
+  
+  <summary>GitHub Stats</summary>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=STrikeNone" />
+  
+</details>
