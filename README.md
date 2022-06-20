@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋 I'm Yi Hao </h1>
 
 [![Instagram](https://img.shields.io/badge/Follow-me-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/puah_yihao/)
-[![Linkedin](https://img.shields.io/badge/Connect%20with%20me-CV-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yi-hao-puah-7286b11b8/])
+[![Linkedin](https://img.shields.io/badge/Connect%20with%20me-CV-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yi-hao-puah-7286b11b8/)
 
 
 - 🔭 I’m currently working on an Off-Leave Full-stack project
