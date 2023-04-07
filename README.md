@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on an Off-Leave Full-stack project
-- 🌱 Currently interning and learning about Data Science in Security:)
+- 🌱 Former Data Science Intern at TikTok/CSIT/DSO
 - 💬 Ask me about any questions pertaining to Data Science/Maths and I would be glad to help out!
 - 📫 Feel free to reach out to me through LinkedIn!
 
