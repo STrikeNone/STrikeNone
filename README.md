@@ -4,8 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/Connect%20with%20me-CV-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yi-hao-puah-7286b11b8/)
 
 
-- 🔭 Y4 Student
-- 🌱 Former Data Science Intern at TikTok/CSIT/DSO
+- 🔭 Full Time Machine Learning Engineer
+- 🌱 Former Data Science Intern at TikTok/CSIT/DSO / DSAI Graduate from Nanyang Technological University
 - 💬 Ask me about any questions pertaining to Data Science/Maths and I would be glad to help out!
 - 📫 Feel free to reach out to me through LinkedIn!
 
